@@ -42,4 +42,4 @@ All these procedures helped me answer the questions of stockholder. The answers 
 My recommendation would be to focus on the regular customer, region three, single adults, department ID 10.25, first day and last day of the week, morning orders. 
 Things that I would do differently to improve is to do sub-setting and make the data lighter. 
 
-Link to GitHub: https://github.com/morwarid1/Instacart-Grocery-Basket-Analysis 
+
