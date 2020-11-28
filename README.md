@@ -1,10 +1,12 @@
 # Instacart-Grocery-Basket-Analysis-Master
-Instacart Grocery Basket Analysis (Python)
+**Instacart Grocery Basket Analysis**
 
 Instacart is an online grocery store that operates through an app. They want to uncover more information about their sales patterns. 
 My rule as a data analyst is to perform an initial data exploratory analysis of some of their data in order to derive insights and suggest strategies for better segmentation based on the provided criteria. 
 The Instacart stakeholders are most interested in the variety of customers and their purchasing behaviors in their database. 
 My analysis will include creating a targeted marketing strategy by helping the stockholder with following questions. 
+
+**Key Questions**
 
 
 1.	What the busiest days of the week and hours of the day are?
@@ -27,7 +29,7 @@ I used many libraries such as Pandas, NumPy, OS, Mathplotlib.pyplot, seaborn and
 The only challenge that I face was while creating new variables, but I was able to solve the problem by loc and aggregation. 
 All these procedures helped me answer the questions of stockholder. The answers to the main questions that the stockholder have are the following:
 
-
+**Solution**
 1.	The busiest days of the week are the first day of the week and last day of the week. And from 4 to 5 am is the busiest hour of the day.
 2.	Looking at the graph, people spend most money at the morning before 10 am.  
 3.	Looking at the graph, the department ID 10.25 has the highest ordering behaviour. 
@@ -39,7 +41,9 @@ All these procedures helped me answer the questions of stockholder. The answers 
 9.	The family status plays rule on the ordering habits of customers as mentioned above. The Age plays rule on the ordering habits of customers as mentioned above. The Region plays rule on the ordering habits of customers as mentioned above. The income and certain types of goods does not seem to have impact of ordering habits of customers. 
 10.	I can see an increase in their mean of ordering behavior from seniors, single adult and young parents, with lowest, second highest and highest number of orders respectively. 
 
-My recommendation would be to focus on the regular customer, region three, single adults, department ID 10.25, first day and last day of the week, morning orders. 
+
+**My recommendation** 
+Intacart should focus on the regular customer, region three, single adults, department ID 10.25, first day and last day of the week, morning orders. 
 Things that I would do differently to improve is to do sub-setting and make the data lighter. 
 
 
